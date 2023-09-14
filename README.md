@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jultomtenreal
+- 👋 Hi, I’m @Sparkles
 - 👀 I’m interested in C, C++, C#, lua, x86 assembly
 - 🌱 I’m currently learning Most of the ones above ^^
 - 💞️ I’m looking to collaborate on anything really
