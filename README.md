@@ -2,5 +2,5 @@
 - 👀 I’m interested in C, C++, C#, lua, x86 assembly
 - 🌱 I’m currently learning Most of the ones above ^^
 - 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me ✨Sparkles✨#6969
-- ✨ My goal is to make a 16 bit real mode operating system like ms-dos and make a "100 games" Console(Command promt) game
+- 📫 Discord: Sprunklis
+- ✨ My goal is to make a 16 bit real mode operating system like ms-dos
