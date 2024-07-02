@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Sparkles
-- 👀 I’m interested in C, C++, C#, lua, x86 assembly
-- 🌱 I’m currently learning Most of the ones above ^^
-- 💞️ I’m looking to collaborate on anything really
-- 📫 Discord: Sprunklis
-- ✨ My goal is to make a 16 bit real mode operating system like ms-dos
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparklesReal&show_icons=true&theme=radical)
