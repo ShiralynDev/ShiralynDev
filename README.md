@@ -28,3 +28,6 @@ Data enjoyer<br>
 Electronics enjoyer<br>
 Microcontroller enjoyer<br>
 Retro enjoyer<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiralynDev&theme=tokyonight)
+[![Shiralyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiralynDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
