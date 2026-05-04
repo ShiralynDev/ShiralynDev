@@ -29,5 +29,5 @@ Electronics enjoyer<br>
 Microcontroller enjoyer<br>
 Retro enjoyer<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiralynDev&theme=tokyonight)
-[![Shiralyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShiralynDev&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/ShiralynDev/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/ShiralynDev/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
