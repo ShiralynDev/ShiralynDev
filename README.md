@@ -29,5 +29,5 @@ Electronics enjoyer<br>
 Microcontroller enjoyer<br>
 Retro enjoyer<br>
 
-![](https://github.com/ShiralynDev/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/ShiralynDev/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=shiralyndev)
+![Top Languages](https://ghstats.dev/api/langs?username=shiralyndev&max_langs=12&layout=vertical_list)
