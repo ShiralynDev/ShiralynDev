@@ -23,7 +23,7 @@ int main() {
 }
 ```
 
-Avreage C/C++ enjoyer. Working on multiple games, hoping to finnish one someday.<br>
+Average C/C++ enjoyer. Working on multiple games, hoping to finish one someday.<br>
 Data enjoyer<br>
 Electronics enjoyer<br>
 Microcontroller enjoyer<br>
